@@ -1,6 +1,7 @@
-# Week 3: Exception Handling and Java Collections
+# Week 3: Data Structures
 
-Welcome to the repository for **Week 3** of our Java learning journey. This week focused on robust error handling and working with Java’s built-in data structures using the **Collections Framework**.
+Data structures are essential for organizing, managing, and storing data efficiently in computer programs. They provide ways to collect and arrange data so that it can be accessed and modified effectively. Common data structures like arrays, lists, stacks, queues, sets, and maps serve different purposes depending on the problem at hand. Understanding these structures and their underlying principles is key to writing optimized and scalable applications.
+
 
 ---
 
